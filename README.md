@@ -19,7 +19,6 @@
 - 🔌 **[claude-plugins](https://github.com/maxtechera/claude-plugins)** — Focused Claude Code plugins: code review, content creation, feature dev, and more. `/plugin marketplace add maxtechera/claude-plugins`
 - 🛠️ **[skills](https://github.com/maxtechera/skills)** — Open-source agent skills for Claude Code, OpenClaw, Gemini CLI, and Codex.
 - ⚓ **[admirarr](https://github.com/maxtechera/admirarr)** — Command your \*Arr fleet. Zero-dependency CLI for Plex + Radarr + Sonarr + Prowlarr + qBittorrent.
-- 🦞 **[openclaw](https://github.com/maxtechera/openclaw)** — Your own personal AI assistant. Any OS. Any platform.
 
 ## Open Source Contributions
 
