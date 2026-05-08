@@ -21,6 +21,12 @@
 - ⚓ **[admirarr](https://github.com/maxtechera/admirarr)** — Command your \*Arr fleet. Zero-dependency CLI for Plex + Radarr + Sonarr + Prowlarr + qBittorrent.
 - 🦞 **[openclaw](https://github.com/maxtechera/openclaw)** — Your own personal AI assistant. Any OS. Any platform.
 
+## Open Source Contributions
+
+- 🧬 **[theanswer](https://github.com/the-answerai/theanswer)** (AnswerAI) — Co-founder and lead engineer on a drag-and-drop LLM flow builder used in production at enterprise scale. TypeScript, agent orchestration, multi-tenant runtime.
+- 🏗️ **[lastrev-libraries](https://github.com/last-rev-llc/lastrev-libraries)** — Core author of the Next.js + Contentful framework powering production marketing sites for enterprise SaaS clients. TypeScript, GraphQL, design-system-driven rendering.
+- 🔌 **MCP servers for AnswerAI** — Contributor across [jira-mcp](https://github.com/the-answerai/jira-mcp), [confluence-mcp](https://github.com/the-answerai/confluence-mcp), [hubspot-mcp](https://github.com/the-answerai/hubspot-mcp), [salesforce-mcp](https://github.com/the-answerai/salesforce-mcp), and [exa-mcp-server](https://github.com/the-answerai/exa-mcp-server) — connecting Claude and other agents to the systems teams already work in.
+
 ## What I'm Doing
 
 - **Building agent infrastructure in public** — orchestrator, memory, and ship are the core stack I run every day
