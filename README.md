@@ -19,6 +19,7 @@
 - 🔌 **[claude-plugins](https://github.com/maxtechera/claude-plugins)** — Focused Claude Code plugins: code review, content creation, feature dev, and more. `/plugin marketplace add maxtechera/claude-plugins`
 - 🛠️ **[skills](https://github.com/maxtechera/skills)** — Open-source agent skills for Claude Code, OpenClaw, Gemini CLI, and Codex.
 - ⚓ **[admirarr](https://github.com/maxtechera/admirarr)** — Command your \*Arr fleet. Zero-dependency CLI for Plex + Radarr + Sonarr + Prowlarr + qBittorrent.
+- 💧 **[drops-share](https://github.com/maxtechera/drops-share)** — Branded, password-protected file & page sharing on your own domain. Vercel Blob + StatiCrypt + an edge proxy. Drop a file, get a clean URL.
 
 ## Open Source Contributions
 
