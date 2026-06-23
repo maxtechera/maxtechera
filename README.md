@@ -13,13 +13,13 @@
 
 ## Current Projects
 
+- 💧 **[hushdrop](https://github.com/maxtechera/hushdrop)** — Drop anything, share it with who you want, on your own domain. Open-source, zero-knowledge artifact sharing (CLI + MCP + a Claude.ai/ChatGPT connector) for any AI agent. `npx hushdrop` · [hushdrop.dev](https://hushdrop.dev)
 - 🎯 **[orchestrator](https://github.com/maxtechera/orchestrator)** — Dispatch agents, verify every deliverable, improve with every cycle. Your ticket board becomes an autonomous workforce. `clawhub install orchestrator`
 - 🧠 **[memory](https://github.com/maxtechera/memory)** — Cross-platform memory for AI agents. 3-tier HOT/WARM/COLD architecture, Obsidian vault sync, session hooks. Your agents remember. `clawhub install memory`
 - 🚀 **[ship](https://github.com/maxtechera/ship)** — Credentials preflight + GTM pipeline. Health-check 30+ CLIs and API tokens before you deploy. `/plugin marketplace add maxtechera/ship`
 - 🔌 **[claude-plugins](https://github.com/maxtechera/claude-plugins)** — Focused Claude Code plugins: code review, content creation, feature dev, and more. `/plugin marketplace add maxtechera/claude-plugins`
 - 🛠️ **[skills](https://github.com/maxtechera/skills)** — Open-source agent skills for Claude Code, OpenClaw, Gemini CLI, and Codex.
 - ⚓ **[admirarr](https://github.com/maxtechera/admirarr)** — Command your \*Arr fleet. Zero-dependency CLI for Plex + Radarr + Sonarr + Prowlarr + qBittorrent.
-- 💧 **[hushdrop](https://github.com/maxtechera/hushdrop)** — Drop anything, share it with who you want, on your own domain. Open-source, zero-knowledge artifact sharing (CLI + MCP + a Claude.ai/ChatGPT connector) for any AI agent. `npx hushdrop` · [hushdrop.dev](https://hushdrop.dev)
 
 ## Open Source Contributions
 
