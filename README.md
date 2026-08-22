@@ -1,60 +1,100 @@
-# Hi, I'm Max 👋
+# Max Techera
 
-📍 **Montevideo, Uruguay** | 🤖 **Autonomous agent builder** | 🚀 **Shipping in public**
+I build AI systems that go into production and keep improving after they get there.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/-OpenClaw-E63946?style=flat-square&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+Twelve years an engineer. CEO of [LastRev](https://github.com/last-rev-llc) and [AnswerAI](https://github.com/the-answerai), CTO before that, and I still write the code. Professor of software engineering at Universidad ORT since 2018. Montevideo, Uruguay, working with teams anywhere.
 
-> I build the infrastructure layer for autonomous agents — dispatch, memory, credentials, and everything you need before you ship.
+`2,110 merged PRs` · `10M+ users reached` · `20,000+ enterprise pages` · `#1 App Store product` · `1,000+ engineers trained`
 
-## Current Projects
+## What I help companies do
 
-- 💧 **[hushdrop](https://github.com/maxtechera/hushdrop)** — Drop anything, share it with who you want, on your own domain. Open-source, zero-knowledge artifact sharing (CLI + MCP + a Claude.ai/ChatGPT connector) for any AI agent. `npx hushdrop` · [hushdrop.dev](https://hushdrop.dev)
-- 🎯 **[orchestrator](https://github.com/maxtechera/orchestrator)** — Dispatch agents, verify every deliverable, improve with every cycle. Your ticket board becomes an autonomous workforce. `clawhub install orchestrator`
-- 🧠 **[memory](https://github.com/maxtechera/memory)** — Cross-platform memory for AI agents. 3-tier HOT/WARM/COLD architecture, Obsidian vault sync, session hooks. Your agents remember. `clawhub install memory`
-- 🚀 **[ship](https://github.com/maxtechera/ship)** — Credentials preflight + GTM pipeline. Health-check 30+ CLIs and API tokens before you deploy. `/plugin marketplace add maxtechera/ship`
-- 🔌 **[claude-plugins](https://github.com/maxtechera/claude-plugins)** — Focused Claude Code plugins: code review, content creation, feature dev, and more. `/plugin marketplace add maxtechera/claude-plugins`
-- 🛠️ **[skills](https://github.com/maxtechera/skills)** — Open-source agent skills for Claude Code, OpenClaw, Gemini CLI, and Codex.
-- ⚓ **[admirarr](https://github.com/maxtechera/admirarr)** — Command your \*Arr fleet. Zero-dependency CLI for Plex + Radarr + Sonarr + Prowlarr + qBittorrent.
+**Get AI past the demo.** Most AI projects stall between a promising prototype and something a
+business can depend on, and it's rarely the model's fault. It's failure modes nobody designed, no
+way to measure whether the thing worked, and no path from "it ran once" to "it's better this month
+than last." That gap is the work I do.
 
-## Open Source Contributions
+**Build agents that produce commercial results.** Not chat assistants. Systems that run conversion
+experiments on live pages, work a revenue pipeline from first idea through close, and turn a backlog
+into shipped work with independent checks at every gate.
 
-- 🧬 **[theanswer](https://github.com/the-answerai/theanswer)** (AnswerAI) — Co-founder and lead engineer on a drag-and-drop LLM flow builder used in production at enterprise scale. TypeScript, agent orchestration, multi-tenant runtime.
-- 🏗️ **[lastrev-libraries](https://github.com/last-rev-llc/lastrev-libraries)** — Core author of the Next.js + Contentful framework powering production marketing sites for enterprise SaaS clients. TypeScript, GraphQL, design-system-driven rendering.
+**Make it survive production.** Narrow interfaces, invariants written down, defined behavior on
+every failure, and enough logging to reconstruct what happened. A model is one component in a
+system, and it gets treated like any other dependency you don't fully trust.
 
-## What I'm Doing
+**Bring a team up to speed.** I've taught software engineering at university since 2018 and trained
+over 1,000 engineers on applied AI: Claude Code, MCP servers, agent architecture, and how to tell a
+real system from a wrapper around someone's API.
 
-- **Building agent infrastructure in public** — orchestrator, memory, and ship are the core stack I run every day
-- **Pushing agents toward reliability** — the hard part isn't prompting, it's verification. The agent that did the work should never grade its own homework
-- **Everything as a text file** — no DSLs, no wrappers, no frameworks. Just prompts, Python, and bash that agents can read and follow
-- **Rapid shipping** — full deployable skills in hours, not weeks
+## Track record
 
-## GitHub Activity
+**[LastRev](https://github.com/last-rev-llc/lastrev-libraries)** (CEO, previously Director of
+Engineering). Co-authored the Next.js and Contentful framework that **Oracle, Dropbox and Coalition**
+run their sites on. The architecture I'm proudest of: clients had built roughly **300 content types**
+because they kept encoding presentation into content (a hero with a blue button was one type, red
+button another). Separating content types from display variants, bridged by a data-mapping layer,
+collapsed that to **25** and killed the combinatorial explosion. A unified GraphQL data layer with a
+fully typed generated SDK made it framework and CMS agnostic, so the same layer later ran on Vue and
+Nuxt and then on Sanity. **6x performance improvement, 20,000+ pages, 10M users reached.**
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/maxtechera)
+**[AnswerAI](https://github.com/the-answerai/theanswer)** (founder and CEO). Started when ChatGPT
+shipped, built with Brad Taylor and Adam Harris. Began as multi-source RAG, pivoted to agent
+orchestration, and now runs at enterprise scale on a multi-tenant TypeScript runtime with
+self-hosted and cloud deployments plus usage-based billing. **296 PRs authored.**
 
-## Connect
+**Top Nine.** React Native app with a Node backend that reached **#1 on the US App Store**.
 
-[![X / Twitter](https://img.shields.io/badge/-@maxtechera-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/maxtechera)
-[![Website](https://img.shields.io/badge/-maxtechera.dev-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://maxtechera.dev)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/maxtechera)
+**Teaching.** Professor at Universidad ORT Uruguay since 2018.
+[maxtechera.dev](https://maxtechera.dev) covers applied AI engineering for a Spanish-speaking
+audience: 1,000+ developers trained, 5,000 on the newsletter.
 
----
+Twelve years of production systems in TypeScript, Go, Python, C#, Node, React, React Native and
+Next.js. Multi-tenant enterprise runtimes, GraphQL data layers, CLIs, MCP servers, mobile apps at
+App Store scale.
 
-### Philosophy
+## What I've built to prove it
 
-> "Everything is a text file agents read and follow. The simpler the interface, the farther the agent gets."
+Four open-source systems that form one loop: generate something real, measure what happened, learn
+from it, run again.
 
-<details>
-<summary>Random Facts</summary>
+**[overlay](https://github.com/maxtechera/overlay)** runs conversion experiments on any live page,
+including one you don't own. It reads the page, proposes variants against components that actually
+exist, and scores each with a separate model that had no hand in writing it. Output is a
+dependency-free script under 2KB that skips an element rather than guessing when the page changed
+underneath it.
 
-- Run 4-6 Claude instances concurrently most days
-- Believe verification matters more than generation
-- Powered by Montevideo mate and coastal mornings
-- Building toward the fully autonomous product team
+**[ship](https://github.com/maxtechera/ship)** boots a nine-agent GTM team on one command and runs
+the pipeline from idea through validation, awareness, lead capture, nurture, closing and
+measurement. A critic gates every stage with fresh context and no access to the executor's work log.
+Nothing deploys without a credential check across 30-plus integrations.
 
-</details>
+**[orchestrator](https://github.com/maxtechera/orchestrator)** dispatches work against your ticket
+board, verifies every deliverable independently, and ships only what passes.
+
+**[memory](https://github.com/maxtechera/memory)** makes runs compound instead of repeat. Three
+tiers over an Obsidian vault, with hooks that capture decisions and outcomes automatically, so run
+eleven starts from everything run ten worked out.
+
+Also: **[hushdrop](https://github.com/maxtechera/hushdrop)** (zero-knowledge artifact sharing on your
+own domain), **[claude-plugins](https://github.com/maxtechera/claude-plugins)** and
+**[skills](https://github.com/maxtechera/skills)** (agent tooling for Claude Code, OpenClaw, Gemini
+CLI and Codex), **[admirarr](https://github.com/maxtechera/admirarr)** (zero-dependency Go CLI).
+
+## How I think about it
+
+The fundamentals matter more now than they did five years ago. Models got good enough that anyone
+can produce code or copy in a minute, which made generation cheap and pushed all the difficulty into
+the questions that were always the hard ones: what to build, how it fails, and how you'd know if it
+worked.
+
+Most teams use a fraction of what these models can do. They generate a draft, a human decides it's
+fine, and it ships. Nothing gets measured, nothing gets remembered, next week starts from scratch.
+The version I build closes the loop, and it needs two things that aren't AI problems: a signal you
+can trust, which means nothing grades its own output, and memory that survives the session, or
+you're running cycle one forever.
+
+## Get in touch
+
+If you're trying to get AI doing real work inside your company and it keeps stalling short of
+production, that's the problem I like.
+
+[Email](mailto:maxi.techerag@gmail.com) · [LinkedIn](https://www.linkedin.com/in/maxtechera/) · [X](https://twitter.com/maxtechera) · [Toptal](https://www.toptal.com/resume/maximiliano-techera) · [maxtechera.dev](https://maxtechera.dev)
