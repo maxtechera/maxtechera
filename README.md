@@ -14,6 +14,7 @@
 ## Current Projects
 
 - 💧 **[hushdrop](https://github.com/maxtechera/hushdrop)** — Drop anything, share it with who you want, on your own domain. Open-source, zero-knowledge artifact sharing (CLI + MCP + a Claude.ai/ChatGPT connector) for any AI agent. `npx hushdrop` · [hushdrop.dev](https://hushdrop.dev)
+- 📡 **[crc](https://github.com/maxtechera/crc)** — Claude Code's native Remote Control, kept alive. tmux-backed servers and sessions, a self-healing watchdog, and a live dashboard. `/plugin marketplace add maxtechera/crc`
 - 🎯 **[orchestrator](https://github.com/maxtechera/orchestrator)** — Dispatch agents, verify every deliverable, improve with every cycle. Your ticket board becomes an autonomous workforce. `clawhub install orchestrator`
 - 🧠 **[memory](https://github.com/maxtechera/memory)** — Cross-platform memory for AI agents. 3-tier HOT/WARM/COLD architecture, Obsidian vault sync, session hooks. Your agents remember. `clawhub install memory`
 - 🚀 **[ship](https://github.com/maxtechera/ship)** — Credentials preflight + GTM pipeline. Health-check 30+ CLIs and API tokens before you deploy. `/plugin marketplace add maxtechera/ship`
